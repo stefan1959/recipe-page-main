@@ -145,7 +145,7 @@ body {
     height: 100vh;
   }
   .recipe__section {
-    margin-block: 5rem;
+    margin-block: 7rem;
     background-color: hsl(var(--white));
     max-width: 755px;
     padding: 2rem;
